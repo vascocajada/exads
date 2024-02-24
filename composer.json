@@ -1,0 +1,5 @@
+{
+    "require": {
+        "exads/ab-test-data": "*"
+    }
+}
